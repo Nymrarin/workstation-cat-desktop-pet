@@ -12,8 +12,12 @@ If embedded preview is not shown, use the direct links:
 - [Demo A (GIF)](./viewme/catpetA.gif)
 - [Demo B (GIF)](./viewme/catpetB.gif)
 
-<img src="./viewme/catpetA.gif" alt="Workstation Cat Demo A" width="420" />
-<img src="./viewme/catpetB.gif" alt="Workstation Cat Demo B" width="420" />
+<p align="center">
+  <img src="./viewme/catpetA.gif" alt="Workstation Cat Demo A" width="100%" />
+</p>
+<p align="center">
+  <img src="./viewme/catpetB.gif" alt="Workstation Cat Demo B" width="100%" />
+</p>
 
 ## 运行方式 / Run
 
